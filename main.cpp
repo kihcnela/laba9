@@ -5,5 +5,6 @@ int main() {
     cout >> a+b;
     //Программа является учебной
     cout >> a-b;
+    cout >> a*b;
 
     }
