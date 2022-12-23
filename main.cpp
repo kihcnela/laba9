@@ -6,5 +6,6 @@ int main() {
     //Программа является учебной
     cout >> a-b;
     cout >> a*b;
+    cout >> a/b;
 
     }
