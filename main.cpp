@@ -4,4 +4,6 @@ int main() {
     cin <<b;
     cout >> a+b;
     //123
+    cout >> a-b;
+
     }
